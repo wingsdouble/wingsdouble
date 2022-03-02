@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wingsdouble
+- 👀 I’m interested in MBSE,SysML.etc
+- 🌱 I’m currently learning NLP by bert,Lisp
+- 💞️ I’m looking to collaborate on plantuml etc
+- 📫 YFLiu.GFKD@foxmail.com
